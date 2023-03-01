@@ -1,0 +1,37 @@
+section#services {
+    display: flex;
+    margin-top: 8%;
+    flex-direction: column;
+    gap: 3rem;
+}
+section#services div#title-services h2{
+    text-align: center;
+    color: #F9F9F9;
+    font-size: 3.2rem;
+}
+
+section#services div#container-service {
+    display: flex;
+    justify-content: center;
+    gap: 4.5rem;
+    flex-wrap: wrap;
+}
+
+section#services div#container-service div.service {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    background-color: #212121;
+    border: solid #333333 0.1rem;
+    border-bottom: #00DF5E solid 0.4rem;
+    padding: 2rem 5rem;
+    width: 30rem;
+}
+section#services div#container-service div.service img {
+    width: 5rem;
+}
+section#services div#container-service div.service p {
+    font-size: 3.2rem;
+    width: 50%;
+    color: #828282;
+}
