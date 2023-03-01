@@ -1,0 +1,39 @@
+/* Global */
+@import url(../modules/global.css);
+/* ****** */
+
+/* Header */
+@import url(../modules/header.css);
+/* ****** */
+
+/* Introduction */
+@import url(../modules/introduction.css);
+/* ****** */
+
+/* Arrow-anim */
+@import url(../modules/arrow-anim.css);
+/* ****** */
+
+/* About-me */
+@import url(../modules/about-me.css);
+/* ****** */
+
+/* Projects */
+@import url(../modules/projects.css);
+/* ****** */
+
+/* Services */
+@import url(../modules/services.css);
+/* ****** */
+
+/* Skills */
+@import url(../modules/skills.css);
+/* ****** */
+
+/* Footer */
+@import url(../modules/footer.css);
+/* ****** */
+
+/* Responsividade */
+@import url(../modules/responsiveness.css);
+/* ****** */
