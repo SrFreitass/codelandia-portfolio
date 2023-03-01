@@ -9,7 +9,7 @@ I'm very excited to share my new project with you! 😃 This project was created
   </div>
   <div style="text-align: center;">
     <p style="font-weight: bold; margin-bottom: 10px;"><b>📱 Mobile</b></p>
-    <img src="./assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="200">
+    <img src="./assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="300">
   </div>
 </div>
 
