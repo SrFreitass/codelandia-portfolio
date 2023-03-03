@@ -10,8 +10,6 @@ section#projects h2 {
     color: #F9F9F9;
     font-size: 3.2rem;
     text-align: center;
-
-
 }
 
 section#projects div#container-projects {
@@ -21,8 +19,8 @@ section#projects div#container-projects {
     justify-content: center;
     gap: 4.5rem;
     flex-wrap: wrap;
-    
 }
+
 section#projects div#container-projects div.project {
     display: flex;
     flex-direction: column;
@@ -30,15 +28,17 @@ section#projects div#container-projects div.project {
     border: solid .1rem #333333;
     padding: 2rem;
     gap: 5rem;
-    
 }
+
 section#projects div#container-projects div.project img {
     border: solid .1rem #333333;
 }
+
 section#projects div#container-projects div.project h4 {
     font-size: 1.8rem;
     color: #FFFFFF;
 }
+
 section#projects div#container-projects div.project p {
     font-size: 1.4rem;
     color: #828282;

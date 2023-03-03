@@ -2,6 +2,7 @@ main {
     display: flex;
     flex-direction: column;
 }
+
 section#introduction {
     display: flex;
     justify-content: space-around;
@@ -21,6 +22,7 @@ section#introduction div#container div#text {
     flex-direction: column;
     gap: 1.8rem;
 }
+
 section#introduction div#container div#text h2{
     font-size: 3.6rem;
     width: 30rem;
@@ -32,10 +34,12 @@ section#introduction div#container div#text p{
     width: 35rem;
     color: #828282;
 }
+
 section#introduction div#container div#buttons {
     display: flex;
     gap: 1.5rem;
 }
+
 section#introduction div#container div#buttons a  {
     text-decoration: none;
     color: #F9F9F9;
@@ -44,6 +48,7 @@ section#introduction div#container div#buttons a  {
     font-size: 1.4rem;
     font-weight: 500;
 }
+
 section#introduction div#container div#buttons a:nth-child(1) {
     background-color: #00DF5E;
     color: #171717;

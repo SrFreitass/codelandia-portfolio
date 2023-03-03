@@ -4,6 +4,7 @@ section#services {
     flex-direction: column;
     gap: 3rem;
 }
+
 section#services div#title-services h2{
     text-align: center;
     color: #F9F9F9;
@@ -27,9 +28,11 @@ section#services div#container-service div.service {
     padding: 2rem 5rem;
     width: 30rem;
 }
+
 section#services div#container-service div.service img {
     width: 5rem;
 }
+
 section#services div#container-service div.service p {
     font-size: 3.2rem;
     width: 50%;

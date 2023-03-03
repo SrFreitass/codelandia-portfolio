@@ -3,39 +3,45 @@ section#about-me {
     flex-direction: column;
     gap: 8.5rem;
 }
+
 section#about-me div#text-about-me {
     display: flex;
     align-items: center;
     text-align: center;
     flex-direction: column;
     gap: 3rem;
-    flex-wrap: wrap;
-    
+    flex-wrap: wrap;  
 }
+
 section#about-me div#text-about-me h2 {
   font-size: 3.2rem;
   color: #F9F9F9;
 }
+
 section#about-me div#text-about-me p#desktop {
     width: 65rem;
     font-size: 1.8rem;
     color: #828282;
 }
+
 section#about-me div#text-about-me p#mobile {
     display: none;
 }
+
 section#about-me div#list-about-me {
     display: flex;
     justify-content: center;
     gap: 10rem;
     flex-wrap: wrap;
 }
+
 section#about-me div#list-about-me div.social-about-me {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 20rem;
 }
+
 section#about-me div#list-about-me div.social-about-me img {
     width: 6rem;
 }
@@ -43,8 +49,8 @@ section#about-me div#list-about-me div.social-about-me img {
 section#about-me div#list-about-me div.social-about-me h3{
     color: #F9F9F9;
     font-size: 1.8rem;
-
 }
+
 section#about-me div#list-about-me div.social-about-me p{
     color: #828282;
     font-size: 1.6rem;

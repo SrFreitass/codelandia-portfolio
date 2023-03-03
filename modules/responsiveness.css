@@ -2,13 +2,16 @@
     html {
         font-size: 50%;
     }
+
     header {
         display: flex;
         justify-content: space-between;
     }
+
     header h1#logo {
         font-size: 1.8rem;
     }
+
     button#menu-mobile {
         display: flex;
         background: none;
@@ -18,17 +21,21 @@
     button#menu-mobile-close {
         display: none;
     }
+
     .navigation-list-items-mobile {
         display: none;
     }
+
     header.active #menu-mobile {
         display: none;
     }
+
     header.active #menu-mobile-close {
         display: flex;
         background: none;
         border: none;
     }
+
     header.active #menu-mobile-close img{
         width: 3rem;
     }
@@ -50,6 +57,7 @@
         padding: 0 4rem;
         align-items: center;
     }
+
     header.active nav ul li.navigation-list-items-mobile {
         display: none;
     }
@@ -59,21 +67,25 @@
         
         width: 11rem;
     }
+
     .navigation-list-items {
         display: none;
     }
     section#introduction {
         height: auto;
     }
+
     main section#introduction div#container {
         display: flex;
         justify-content: center;
     }
+
     section#introduction div#container div#text h2 {
         width: 100vw;
         text-align: center;
         font-size: 2.6rem;
     }
+
     section#introduction div#container div#text p {
         display: flex;
         font-size: 1.8rem;
@@ -81,25 +93,32 @@
         justify-content: center;
 
     }
+
     section#introduction img {
         display: none;
     }
+
     section#introduction div#container div#buttons {
         display: flex;
         justify-content: center;
     }
+
     section#introduction div#container div#buttons a {
         padding: 1rem 4rem;
     }
+
     #arrow-anim {
         display: none;
     }
+
     section#about-me div#text-about-me h2 {
         font-size: 2.6rem;
-    }   
+    }  
+
     section#about-me div#text-about-me p#desktop {
         display: none;
-    }   
+    } 
+
     section#about-me div#text-about-me p#mobile {
         display: flex;
         color: #828282;
@@ -107,30 +126,38 @@
         text-align: center;
         width: 35rem;
     }  
+
     section#about-me div#list-about-me {
         gap: 4rem;
     }
+
     section#about-me div#list-about-me div.social-about-me h3 {
         font-size: 1.6rem;
     }
+
     section#about-me div#list-about-me div.social-about-me p {
         font-size: 1.4rem;
     }
+
     section#services div#container-service div.service {
         align-items: center;
     }
+
     section#services div#container-service div.service h2 {
         font-size: 2.6rem;
     }
+
     section#services div#container-service div.service p {
         width: 100%;
         text-align: center;
     }
+
     section#skills h2 {
         text-align: center;
         font-size: 2.6rem;
         color: #F9F9F9;
     }
+
     section#skills div#skills-container div.skill {
         background-color: #212121;
         padding: 2.5rem 2.5rem;
@@ -142,13 +169,16 @@
     html {
         font-size: 40%;
     }
+    
     header {
         display: flex;
         justify-content: space-between;
     }
+
     header h1#logo {
         font-size: 1.8rem;
     }
+
     button#menu-mobile {
         display: flex;
         background: none;
@@ -158,17 +188,21 @@
     button#menu-mobile-close {
         display: none;
     }
+
     .navigation-list-items-mobile {
         display: none;
     }
+
     header.active #menu-mobile {
         display: none;
     }
+
     header.active #menu-mobile-close {
         display: flex;
         background: none;
         border: none;
     }
+
     header.active #menu-mobile-close img{
         width: 3rem;
     }
@@ -190,6 +224,7 @@
         padding: 0 4rem;
         align-items: center;
     }
+
     header.active nav ul li.navigation-list-items-mobile {
         display: none;
     }
@@ -199,21 +234,26 @@
         
         width: 11rem;
     }
+
     .navigation-list-items {
         display: none;
     }
+
     section#introduction {
         height: auto;
     }
+    
     main section#introduction div#container {
         display: flex;
         justify-content: center;
     }
+    
     section#introduction div#container div#text h2 {
         width: 100vw;
         text-align: center;
         font-size: 2.6rem;
     }
+
     section#introduction div#container div#text p {
         display: flex;
         font-size: 1.8rem;
@@ -221,56 +261,71 @@
         justify-content: center;
 
     }
+
     section#introduction img {
         display: none;
     }
+
     section#introduction div#container div#buttons {
         display: flex;
         justify-content: center;
     }
+
     section#introduction div#container div#buttons a {
         padding: 1rem 4rem;
     }
+
     #arrow-anim {
         display: none;
     }
+
     section#about-me div#text-about-me h2 {
         font-size: 2.6rem;
-    }   
+    }
+
     section#about-me div#text-about-me p#desktop {
         display: none;
-    }   
+    }  
+
     section#about-me div#text-about-me p#mobile {
         display: flex;
         color: #828282;
         font-size: 1.6rem;
         text-align: center;
         width: 35rem;
-    }  
+    } 
+
     section#about-me div#list-about-me {
         gap: 4rem;
     }
+
     section#about-me div#list-about-me div.social-about-me h3 {
         font-size: 1.6rem;
     }
+
     section#about-me div#list-about-me div.social-about-me p {
         font-size: 1.4rem;
     }
+
     section#services div#container-service div.service {
         align-items: center;
     }
+
     section#services div#container-service div.service h2 {
         font-size: 2.6rem;
     }
+
     section#services div#container-service div.service p {
         width: 100%;
         text-align: center;
     }
+
     section#skills h2 {
         text-align: center;
         font-size: 2.6rem;
         color: #F9F9F9;
     }
+    
     section#skills div#skills-container div.skill {
         background-color: #212121;
         padding: 2.5rem 2.5rem;
